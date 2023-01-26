@@ -75,7 +75,7 @@ Feel free to **bring your own data** by modify the db.json and save the file, th
 [Cyclic](https://www.cyclic.sh/) is my favorite PaaS platform for a couple of reasons:
 
 1. Generous free tier (3 apps, and 100,000 API calls per month), it's good enough for POC and small production application
-2. The apps never sleep
+2. The apps never sleep and support HTTPS
 3. Support Javascript, Typescript and Python
 
 ## Simple Steps
@@ -84,3 +84,8 @@ Feel free to **bring your own data** by modify the db.json and save the file, th
 2. Clone this repo, modify the db.json file as required
 3. Push this repo to your own github account, it has to be public repo
 4. Deploy it to Cyclic
+
+This is the [demo site](https://difficult-wasp-tweed-jacket.cyclic.app), and you can test using the following API calls:
+
+- `https://difficult-wasp-tweed-jacket.cyclic.app/country?code=us`
+- `https://difficult-wasp-tweed-jacket.cyclic.app/industry?oldLabel=Accommodation%20Services`
