@@ -18,7 +18,7 @@ That's why this apps is created as a boilerplate.
 
 - [express](https://www.npmjs.com/package/express) - highly popular fast web framework and middleware to make the app highly scalable with asynchronous APIs
 - [helmet](https://www.npmjs.com/package/helmet) - secure the Express apps by adding necessary HTTP headers, it's not a silver bullet but it can help!
-- [nodemon](https://www.npmjs.com/package/nodemon) - automatically restart the node application when file changes in the directory is detected, it means hot-loading!
+- [nodemon](https://www.npmjs.com/package/nodemon) - automatically restart the node application when file changes in the directory is detected, it means hot-loading (for development by running `npm run dev`)
 - [json-server](https://www.npmjs.com/package/json-server) - get a full REST API backend by reading data from local json file "db.json"
 
 # Installation
