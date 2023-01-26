@@ -55,8 +55,9 @@ The sample data set in "db.json" comes with data objects, "country" and "industr
 ```
 
 You may access each object by these 2 routes :
-`http://localhost:3000/country`
-`http://localhost:3000/industry`
+
+- http://localhost:3000/country
+- http://localhost:3000/industry
 
 The original data source is coming from LinkedIn :
 
@@ -65,8 +66,8 @@ The original data source is coming from LinkedIn :
 
 You may execute query in your API call, for example
 
-- `http://localhost:3000/country?code=us`
-- `http://localhost:3000/industry?oldLabel=Accommodation%20Services`
+- http://localhost:3000/country?code=us
+- http://localhost:3000/industry?oldLabel=Accommodation%20Services
 
 Feel free to **bring your own data** by modify the db.json and save the file, the apps will restart automatically!
 
