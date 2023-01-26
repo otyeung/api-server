@@ -87,5 +87,5 @@ Feel free to **bring your own data** by modify the db.json and save the file, th
 
 This is the [demo site](https://difficult-wasp-tweed-jacket.cyclic.app), and you can test using the following API calls:
 
-- `https://difficult-wasp-tweed-jacket.cyclic.app/country?code=us`
-- `https://difficult-wasp-tweed-jacket.cyclic.app/industry?oldLabel=Accommodation%20Services`
+- https://difficult-wasp-tweed-jacket.cyclic.app/country?code=us
+- https://difficult-wasp-tweed-jacket.cyclic.app/industry?oldLabel=Accommodation%20Services
