@@ -78,4 +78,9 @@ Feel free to **bring your own data** by modify the db.json and save the file, th
 2. The apps never sleep
 3. Support Javascript, Typescript and Python
 
-What you need is simply sign up with your Github account and deploy your repo there.
+## Simple Steps
+
+1. Sign up a Cyclic account with your github account
+2. Clone this repo, modify the db.json file as required
+3. Push this repo to your own github account, it has to be public repo
+4. Deploy it to Cyclic
